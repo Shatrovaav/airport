@@ -1,0 +1,10 @@
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.csproj.AssemblyReference.cache
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.MainForm.resources
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.Properties.Resources.resources
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.csproj.GenerateResource.cache
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\bin\Debug\airport.exe.config
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\bin\Debug\airport.exe
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\bin\Debug\airport.pdb
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.exe
+D:\учеба\3 курс\2 семестр\airport\airport\airport\airport\obj\Debug\airport.pdb

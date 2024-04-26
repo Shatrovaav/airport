@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E509A4-62B0-4582-92CF-822CE62151AC}|airport\\airport.csproj|solutionrelative:airport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightsForm.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\FlightsForm.cs",
+              "RelativeDocumentMoniker": "airport\\FlightsForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\FlightsForm.cs",
+              "RelativeToolTip": "airport\\FlightsForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:57:50.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "airport\\ClientsForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "airport\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:51:27.301Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\Form1.cs",
-              "RelativeDocumentMoniker": "airport\\Form1.cs",
-              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "airport\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "FlightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\FlightsForm.cs",
+              "RelativeDocumentMoniker": "airport\\FlightsForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\FlightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "airport\\FlightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:51:14.616Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\Program.cs",
+              "RelativeDocumentMoniker": "airport\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\Program.cs",
+              "RelativeToolTip": "airport\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:33:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\MainForm.cs",
+              "RelativeDocumentMoniker": "airport\\MainForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\MainForm.cs",
+              "RelativeToolTip": "airport\\MainForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:21:36.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\MainForm.cs",
+              "RelativeDocumentMoniker": "airport\\MainForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\airport\\airport\\airport\\airport\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "airport\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T07:30:04.707Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
